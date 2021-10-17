@@ -34,13 +34,13 @@ A little more about me
 - 😼 Cat lover
 ```
 <p align="center">
-<a href= "https://github.com/prophet-99">
+<a href="https://www.linkedin.com/in/alexander-avila-briones" target="_blank">
   <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="32"/>
 </a>
- <a href= "https://twitter.com/AlexAvSb">
+ <a href="https://twitter.com/AlexAvSb" target="_blank">
   <img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" width="30"/>
 </a>
-<a href= "instagram.com/alex.avbr">
+<a href="https://instagram.com/alex.avbr" target="_blank">
   <img src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="30"/>
 </a>
 </p>
