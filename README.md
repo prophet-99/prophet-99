@@ -1,4 +1,49 @@
-### Hi there 👋
+### Hello, I'm Alexander Avila <img src="https://media.giphy.com/media/euywxGDy8nHNK/giphy.gif" width="30">
+
+```javascript
+const prophet99 = {
+  pronouns: 'He' | 'Him',
+  code: ['JavaScript', 'Java', 'Dart', 'PHP', 'C#'],
+  technologies: {
+    backend: {
+      javaScript: ['Node', 'Express', 'NestJS'],
+      java: ['Spring Boot'],
+      php: ['Laravel'],
+    },
+    frontend: {
+      javaScript: ['Angular', 'React'],
+      preprocessors: ['Sass'],
+    },
+    mobileApp: {
+      javaScript: ['Ionic'],
+      dart: ['Flutter'],
+    },
+    databases: ['MongoDB', 'Firebase', 'MySQL', 'SQL Server', 'Oracle', 'PostgreSQL'],
+    others: ['GraphQL', 'Webpack 5'],
+  },
+  currentFocus: 'Frotend Development',
+};
+```
+A little more about me
+```
+- ☕ I like coffe
+- 🎼 Electro music lover
+- 🥗 I like fitness life
+- 🏀 Basketball player
+- ⚽ Soccer player
+- 😼 Cat lover
+```
+<p align="center">
+<a href= "https://github.com/prophet-99">
+  <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="32"/>
+</a>
+ <a href= "https://twitter.com/AlexAvSb">
+  <img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" width="30"/>
+</a>
+<a href= "instagram.com/alex.avbr">
+  <img src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="30"/>
+</a>
+</p>
 
 <!--
 **prophet-99/prophet-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
