@@ -3,12 +3,11 @@
 ```javascript
 const prophet99 = {
   pronouns: 'He' | 'Him',
-  code: ['JavaScript', 'Java', 'Dart', 'PHP', 'C#'],
+  code: ['JavaScript', 'Java', 'Dart', 'Python'],
   technologies: {
     backend: {
       javaScript: ['Node', 'Express', 'NestJS'],
       java: ['Spring Boot'],
-      php: ['Laravel'],
     },
     frontend: {
       javaScript: ['Angular', 'React'],
@@ -24,7 +23,7 @@ const prophet99 = {
   currentFocus: 'Frotend Development',
 };
 ```
-A little more about me
+A little more about me:
 ```
 - ☕ I like coffe
 - 🎼 Electro music lover
@@ -33,6 +32,10 @@ A little more about me
 - ⚽ Soccer player
 - 😼 Cat lover
 ```
+![](https://github-readme-stats-ruby-one.vercel.app/api?username=prophet-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prophet-99&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=prophet-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-avila-briones" target="_blank">
   <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="32"/>
