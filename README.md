@@ -32,9 +32,7 @@ A little more about me:
 - ⚽ Soccer player
 - 😼 Cat lover
 ```
-![](https://github-readme-stats-ruby-one.vercel.app/api?username=prophet-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prophet-99&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=prophet-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prophet-99&theme=vue-dark&hide_border=false)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-avila-briones" target="_blank">
