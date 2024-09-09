@@ -32,7 +32,15 @@ A little more about me:
 - ⚽ Soccer player
 - 😼 Cat lover
 ```
-[![Prophet Code GitHub stats](https://github-readme-stats.vercel.app/api?username=prophet-99)](https://github.com/prophet-99/github-readme-stats)
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prophet-99&show_icons=true&theme=tokyonight&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prophet-99&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+</a>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-avila-briones" target="_blank">
