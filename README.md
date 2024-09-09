@@ -34,10 +34,10 @@ A little more about me:
 ```
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prophet-99&show_icons=true&theme=tokyonight&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prophet-99&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
 </p>
