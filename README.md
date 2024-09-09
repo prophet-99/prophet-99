@@ -32,7 +32,7 @@ A little more about me:
 - ⚽ Soccer player
 - 😼 Cat lover
 ```
-![](https://github-readme-streak-stats.herokuapp.com/?user=prophet-99&theme=vue-dark&hide_border=false)
+[![Prophet Code GitHub stats](https://github-readme-stats.vercel.app/api?username=prophet-99)](https://github.com/prophet-99/github-readme-stats)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexander-avila-briones" target="_blank">
