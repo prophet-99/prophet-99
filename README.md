@@ -46,10 +46,10 @@ A little more about me:
 <a href="https://www.linkedin.com/in/alexander-avila-briones" target="_blank">
   <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="32"/>
 </a>
- <a href="https://twitter.com/AlexAvSb" target="_blank">
-  <img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" width="30"/>
+ <a href="https://www.youtube.com/@ProphetCode" target="_blank">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWt5ZjNrOXlrdjZhbzM3azhsNW84cTEyMzdydXU3Y21seXR0aXF3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DTzv8e4yFKxMQGJd5K/giphy.webp" width="30"/>
 </a>
-<a href="https://instagram.com/alex.avbr" target="_blank">
+<a href="https://www.instagram.com/prophetcode.dev" target="_blank">
   <img src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="30"/>
 </a>
 </p>
